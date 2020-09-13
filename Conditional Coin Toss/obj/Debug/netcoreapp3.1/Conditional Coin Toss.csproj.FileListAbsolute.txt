@@ -1,0 +1,13 @@
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.csprojAssemblyReference.cache
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.AssemblyInfoInputs.cache
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.AssemblyInfo.cs
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.csproj.CoreCompileInputs.cache
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.exe
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.deps.json
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.runtimeconfig.json
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.runtimeconfig.dev.json
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.dll
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\bin\Debug\netcoreapp3.1\Conditional Coin Toss.pdb
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.dll
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.pdb
+C:\Users\sumayah sandhu\source\repos\sumayah-sandhu\Conditional Coin Toss\obj\Debug\netcoreapp3.1\Conditional Coin Toss.genruntimeconfig.cache
