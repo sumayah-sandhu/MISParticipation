@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Participations"
+    "\\Participations",
+    "\\Participations\\RandomGuess"
   ],
-  "SelectedNode": "\\Participations\\Conditional Coin Toss",
+  "SelectedNode": "\\Participations\\RandomGuess\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
