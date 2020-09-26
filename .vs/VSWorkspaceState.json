@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Participations",
-    "\\Participations\\RandomGuess"
+    "\\Participations\\RandomGuess",
+    "\\String manipulation"
   ],
-  "SelectedNode": "\\Participations\\RandomGuess\\Program.cs",
+  "SelectedNode": "\\String manipulation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
