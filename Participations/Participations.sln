@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGuess", "RandomGuess\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String manipulation", "String manipulation\String manipulation.csproj", "{1F7DB1D0-9487-41BB-ADF5-37635342D77C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collectionsminmaxavg", "Collectionsminmaxavg\Collectionsminmaxavg.csproj", "{09E8B6FC-9004-4EDB-BC94-6DF0758F344A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F7DB1D0-9487-41BB-ADF5-37635342D77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7DB1D0-9487-41BB-ADF5-37635342D77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7DB1D0-9487-41BB-ADF5-37635342D77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E8B6FC-9004-4EDB-BC94-6DF0758F344A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E8B6FC-9004-4EDB-BC94-6DF0758F344A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E8B6FC-9004-4EDB-BC94-6DF0758F344A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E8B6FC-9004-4EDB-BC94-6DF0758F344A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
