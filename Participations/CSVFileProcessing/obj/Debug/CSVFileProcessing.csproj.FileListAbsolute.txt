@@ -1,0 +1,8 @@
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\bin\Debug\sales_data_sample.csv
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\bin\Debug\CSVFileProcessing.exe.config
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\bin\Debug\CSVFileProcessing.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\bin\Debug\CSVFileProcessing.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\obj\Debug\CSVFileProcessing.csprojAssemblyReference.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\obj\Debug\CSVFileProcessing.csproj.CoreCompileInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\obj\Debug\CSVFileProcessing.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\CSVFileProcessing\obj\Debug\CSVFileProcessing.pdb
