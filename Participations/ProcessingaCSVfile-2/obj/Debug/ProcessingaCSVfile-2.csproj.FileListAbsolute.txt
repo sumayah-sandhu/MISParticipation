@@ -1,0 +1,8 @@
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\bin\Debug\SalesJan2009.csv
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\bin\Debug\ProcessingaCSVfile-2.exe.config
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\bin\Debug\ProcessingaCSVfile-2.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\bin\Debug\ProcessingaCSVfile-2.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\obj\Debug\ProcessingaCSVfile-2.csprojAssemblyReference.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\obj\Debug\ProcessingaCSVfile-2.csproj.CoreCompileInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\obj\Debug\ProcessingaCSVfile-2.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\ProcessingaCSVfile-2\obj\Debug\ProcessingaCSVfile-2.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collectionsminmaxavg", "Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFileProcessing", "CSVFileProcessing\CSVFileProcessing.csproj", "{741EB6B1-7AE7-4107-B26A-BB60596B35B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingaCSVfile-2", "ProcessingaCSVfile-2\ProcessingaCSVfile-2.csproj", "{7A09B985-904B-45AF-A82A-613700FEA572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{741EB6B1-7AE7-4107-B26A-BB60596B35B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{741EB6B1-7AE7-4107-B26A-BB60596B35B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{741EB6B1-7AE7-4107-B26A-BB60596B35B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A09B985-904B-45AF-A82A-613700FEA572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A09B985-904B-45AF-A82A-613700FEA572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A09B985-904B-45AF-A82A-613700FEA572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A09B985-904B-45AF-A82A-613700FEA572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
