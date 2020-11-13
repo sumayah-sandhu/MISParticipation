@@ -1,0 +1,13 @@
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

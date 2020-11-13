@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFileProcessing", "CSVFil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingaCSVfile-2", "ProcessingaCSVfile-2\ProcessingaCSVfile-2.csproj", "{7A09B985-904B-45AF-A82A-613700FEA572}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{C07B5A30-8DAD-4A51-AE4E-10EE76D35624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Rectangle_Circle", "Classes_Rectangle_Circle\Classes_Rectangle_Circle.csproj", "{B25FE4E5-A4EF-493A-B0E2-79255FEF7949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7A09B985-904B-45AF-A82A-613700FEA572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A09B985-904B-45AF-A82A-613700FEA572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A09B985-904B-45AF-A82A-613700FEA572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07B5A30-8DAD-4A51-AE4E-10EE76D35624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07B5A30-8DAD-4A51-AE4E-10EE76D35624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07B5A30-8DAD-4A51-AE4E-10EE76D35624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07B5A30-8DAD-4A51-AE4E-10EE76D35624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25FE4E5-A4EF-493A-B0E2-79255FEF7949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25FE4E5-A4EF-493A-B0E2-79255FEF7949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25FE4E5-A4EF-493A-B0E2-79255FEF7949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25FE4E5-A4EF-493A-B0E2-79255FEF7949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
