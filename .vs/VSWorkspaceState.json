@@ -3,8 +3,10 @@
     "",
     "\\Collections",
     "\\Participations",
-    "\\Participations\\Methods"
+    "\\Participations\\Collections_dictionary",
+    "\\Participations\\Methods",
+    "\\Participations\\RandomGuess"
   ],
-  "SelectedNode": "\\Participations\\Methods\\Program.cs",
+  "SelectedNode": "\\Participations\\RandomGuess\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

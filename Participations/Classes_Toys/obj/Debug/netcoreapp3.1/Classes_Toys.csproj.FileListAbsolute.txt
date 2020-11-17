@@ -1,0 +1,13 @@
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.exe
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.deps.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.runtimeconfig.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.runtimeconfig.dev.json
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.dll
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\bin\Debug\netcoreapp3.1\Classes_Toys.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.csprojAssemblyReference.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.AssemblyInfoInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.AssemblyInfo.cs
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.csproj.CoreCompileInputs.cache
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.dll
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.pdb
+C:\Users\sumayah sandhu\Source\Repos\sumayah-sandhu\MISParticipation\Participations\Classes_Toys\obj\Debug\netcoreapp3.1\Classes_Toys.genruntimeconfig.cache

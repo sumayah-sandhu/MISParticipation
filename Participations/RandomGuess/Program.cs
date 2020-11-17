@@ -35,6 +35,8 @@ namespace RandomGuess
             Console.WriteLine($"Congratulations! {number} is correct!");
 
             Console.ReadLine(); 
+
+            
             
             
             
